@@ -1,5 +1,5 @@
 Project sederhana berbasis **HTML, CSS, dan JavaScript** untuk membuat formulir pendaftaran anggota HMTI sekaligus men-generate **Kartu Anggota Digital**.  
-Didesain khusus untuk keperluan tugas/latihan mahasiswa baru.
+Didesain khusus untuk keperluan registrasi PAA
 
 ---
 
